@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600938436 source:d:\documents\bucketbrigade\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
