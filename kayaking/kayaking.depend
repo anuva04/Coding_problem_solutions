@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605887616 source:d:\documents\kayaking\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
