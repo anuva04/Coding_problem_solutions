@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606225369 source:d:\documents\diamondcollector\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
