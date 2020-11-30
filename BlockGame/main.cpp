@@ -1,5 +1,6 @@
 // http://www.usaco.org/index.php?page=viewproblem2&cpid=664
 
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
