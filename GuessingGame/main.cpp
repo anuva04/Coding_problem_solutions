@@ -1,3 +1,5 @@
+// https://www.codechef.com/JUNE20B/problems/GUESSG
+
 #include <iostream>
 
 using namespace std;
