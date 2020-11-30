@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/range-query-2/
+
 #include <iostream>
 
 using namespace std;
