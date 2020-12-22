@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608648684 source:d:\documents\guesstheanimal\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
