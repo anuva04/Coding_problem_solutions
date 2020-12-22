@@ -1,3 +1,5 @@
+// https://codeforces.com/problemset/problem/1373/C
+
 //within every iteration of the init loop, the minimum length of string for which cur becomes negative is getting added to res
 //for every next iteration of init loop, cur value is increased by 1
 //after incrementing cur value, it takes greater length of string to make cur negative
