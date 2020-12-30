@@ -1,3 +1,5 @@
+// https://www.codechef.com/problems/BULBS
+
 #include <bits/stdc++.h>
 
 using namespace std;
