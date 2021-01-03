@@ -1,4 +1,4 @@
-http://www.usaco.org/index.php?page=viewproblem2&cpid=783
+// http://www.usaco.org/index.php?page=viewproblem2&cpid=783
 
 #include <iostream>
 #include <bits/stdc++.h>
