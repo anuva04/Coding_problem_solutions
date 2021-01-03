@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-the-earning-137963bc-323025a6/description/
+
 #include <iostream>
 
 using namespace std;
