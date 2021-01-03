@@ -1,3 +1,5 @@
+// https://www.codechef.com/problems/GCDOPS
+
 #include <bits/stdc++.h>
 
 using namespace std;

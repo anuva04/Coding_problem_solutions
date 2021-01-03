@@ -1,3 +1,6 @@
+// https://www.codechef.com/AUG20B/problems/CHEFWED
+// partial solution
+
 #include <bits/stdc++.h>
 
 using namespace std;
