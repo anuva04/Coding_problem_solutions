@@ -1,3 +1,5 @@
+// https://www.codechef.com/AUG20B/problems/LINCHESS/
+
 #include <bits/stdc++.h>
 using namespace std;
 
