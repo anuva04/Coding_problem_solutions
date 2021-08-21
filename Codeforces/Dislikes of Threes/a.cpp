@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/1560/problem/A
+
 #include <bits/stdc++.h>
 using namespace std;
 #define mod 1000000007
