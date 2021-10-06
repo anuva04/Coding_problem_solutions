@@ -7,7 +7,7 @@ typedef long long ll;
 typedef long double ld;
 const int INF = int(1e9);
 
-// Fenwick tree template
+// fenwick tree template
 
 // BIT
 vector<int> bit;
