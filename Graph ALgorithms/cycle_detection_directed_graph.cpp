@@ -9,7 +9,7 @@ bool dfs(map<int, vector<int>>& graph, int curr_node, set<int>& not_visited, set
         if(visiting.find(nei) != visiting.end()) return true;
         if(dfs(graph, nei, not_visited, visiting, visited)) return true;
     }
-    visited.erase(curr_node);
+    visiting.erase(curr_node);
     visited.insert(curr_node);
     return false;
 }
