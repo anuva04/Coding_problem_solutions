@@ -1,3 +1,5 @@
+// program to find articulation points in a graph
+
 #include <bits/stdc++.h>
 using namespace std;
 
